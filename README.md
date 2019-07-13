@@ -7,7 +7,8 @@ It is intended to be used as a pure JavaScript UI library, if you wish to build 
 ## Usage
 
 ```typescript
-import * as Vue from '@uoft-treat/carbon-vue'
+import Vue from '@uoft-treat/carbon-vue'
 
 new Vue({/* your config */});
 ```
+
