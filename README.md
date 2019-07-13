@@ -2,7 +2,9 @@
 
 This is a heavily modified version of Vue.js that is intended to be extremely light-weight.
 
-It is intended to be used as a pure JavaScript UI library, if you wish to build a SPA or to use anything within the Vue.js ecosystem, you have come to the wrong place.
+It is intended to be used as a pure JavaScript UI library, and has a very very limited use case.
+
+**If you are looking to build a Vue.js application, you have come to the wrong place.**
 
 ## Usage
 
